@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bound
+  - Asteroid
+  - Ground
+  - Missile
+  - UFO
+  - Health
+  - Pickup_Missile
+  - Homing_Obj
+  - XplodeFx
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tyre
+  - Body
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: World
+    uniqueID: 243942435
+    locked: 0
+  - name: Player
+    uniqueID: 1864252597
+    locked: 0
+  - name: Objects
+    uniqueID: 1787152477
+    locked: 0
+  - name: UI
+    uniqueID: 4012629617
+    locked: 0

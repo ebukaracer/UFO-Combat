@@ -1,0 +1,22 @@
+{
+    "name": "UFO Combat",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:821b0ee03ff72524ebad25077d12a3c7",
+        "GUID:d0950841e110dc148b9b37a987a096a2",
+        "GUID:562f1f753c16f5842a9f1c1a7bdbf913",
+        "GUID:9459b88195abfab4096b9094a20700cc",
+        "GUID:b71f8efa8a7df964d8ded756eb3df5e7",
+        "GUID:5e4847bc65220404ea9581aeff925870"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
