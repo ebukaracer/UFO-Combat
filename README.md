@@ -4,7 +4,7 @@
 *A shooter-style game I developed using Unity.*
 
 ## Game Logic:
-*UFO-Combat is a 2D Car Shooter, where the player attempts to doge random asteroids deployed by incidental UFOs.* 
+**UFO-Combat** is a 2D Car Shooter, where the player attempts to doge random asteroids deployed by incidental UFOs.
 
 ## Tools Used:
 * Unity 2020.3.10f1 
